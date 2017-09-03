@@ -1,4 +1,4 @@
-package foo
+package kiputil
 
 func Foo() string {
 	return "foo"
